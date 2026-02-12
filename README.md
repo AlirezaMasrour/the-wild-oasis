@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-Main practice project in Jonas Schmedtmann's Ultimate React Course.
+A full-featured cabin booking management system with authentication, dashboard analytics, and real-time data handling. Designed with a clean admin interface and reusable component architecture.
